@@ -28,6 +28,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Microsoft Active Directory Immplemntation and Configuration   | Active Directory Lab|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/GraveSEC-github/SIEM-Lab/blob/main/README.md">SIEM Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/GraveSEC-github/SIEM-Lab/blob/main/README.md">SIEM Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
