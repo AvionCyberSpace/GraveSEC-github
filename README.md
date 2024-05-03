@@ -38,8 +38,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 | (AWS) Amazon Wed Services  | Cloud Lab|
-| Case Management with TheHive   | Threat Intelligence Lab|
-| Case Management with TheHive   | Threat Intelligence Lab|
+| Threat Intelligence   | Threat Intelligence Lab|
+| Threat Hunting   | Threat Intelligence Lab|
 
 ## Tools
 
