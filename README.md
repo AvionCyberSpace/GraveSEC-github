@@ -25,7 +25,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - AWS Cloud
   
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
