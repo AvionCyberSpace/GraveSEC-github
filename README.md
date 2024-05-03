@@ -21,8 +21,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## GraveSEC Projects
+- Active Directory
 - SIEM Lab
 - SOC Automation Lab
+- AWS Cloud
   
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
