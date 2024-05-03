@@ -59,6 +59,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
+### Cloud
+<div>
+    <img src="https://img.shields.io/badge/-Amazon%20S3-FF9900?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+</div>
+
 ### Intelligence
 <div>
     <img src="https://img.shields.io/badge/-Mitre-00A4EF?&style=for-the-badge&logo=Mitre&logoColor=white" />
