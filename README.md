@@ -21,8 +21,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## GraveSEC Projects
-- Active Directory
-- SIEM Lab
+- <a href="https://github.com/GraveSEC-github/Active-Directory-Lab/blob/main/README.md">Active Directory Lab</a>
+- <a href="https://github.com/GraveSEC-github/SIEM-Lab/blob/main/README.md">SIEM Lab</a>
 - SOC Automation Lab
 - AWS Cloud
   
