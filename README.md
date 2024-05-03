@@ -1,6 +1,6 @@
 # GraveSEC GitGub Portfolio
 
-# Hi, I'm William Graves
+# Hi, I'm William
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 About Me
