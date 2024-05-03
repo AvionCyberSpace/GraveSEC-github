@@ -9,7 +9,7 @@ I am a current cyber security student with a profound interest in technology, pr
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field. Specifically, I aiming to  venture into the realms of blue and purple team strategies. From fundamental concepts to advanced tactics, join me on this journey to fortify defenses, thwart threats, and secure digital landscapes with confidence and proficiency. Overall, I aspire to be an efficient Tier 1 Analyst.
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field. Specifically, I aiming to  venture into the realms of blue and purple team strategies. From fundamental concepts to advanced tactics, join me on this journey to fortify defenses, thwart threats, and secure digital landscapes with confidence and proficiency. Overall, I aspire to be an efficient Tier 1 Analyst and grow into a  more seasoned professional.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
