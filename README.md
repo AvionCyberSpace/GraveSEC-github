@@ -13,6 +13,18 @@ I am a current cyber security student with a profound interest in technology, pr
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field. Specifically, I aiming to  venture into the realms of blue and purple team strategies. From fundamental concepts to advanced tactics, join me on this journey to fortify defenses, thwart threats, and secure digital landscapes with confidence and proficiency. Overall, I aspire to be an efficient Tier 1 Analyst and grow into a  more seasoned professional.
 
+## Certifications
+[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</div>
+
+## GraveSEC Projects
+- SIEM Lab
+- SOC Automation Lab
+  
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
@@ -48,14 +60,3 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-</div>
-
-## GraveSEC Projects
-- SIEM Lab
-- SOC Automation Lab
