@@ -7,7 +7,7 @@
 
 About Me
 
-I am a current cyber security student with a profound interest in technology, problem solving and constant learning.
+Who is William? I am a current cyber security student with a profound curiousity in technology, problem solving and constant learning. I am a Blue/ Purple Teamer whom loves music and cooking for others. I also enjoy participating in moderate fitness and playing basketball. 
 
 ## Objective
 
