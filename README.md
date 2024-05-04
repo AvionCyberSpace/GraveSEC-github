@@ -1,9 +1,6 @@
 <header id="header"
-  <div class="inner">
-    ![LogoGraveSEC](https://github.com/GraveSEC-github/GraveSEC-github/assets/168868092/b25e480b-41e9-4c8e-a9bd-cb8cfffdfd40)
-
-    </strong><br />
-    </strong></a></h1>
+  <div>
+     <img src="https://github.com/GraveSEC-github/GraveSEC-github/assets/168868092/b25e480b-41e9-4c8e-a9bd-cb8cfffdfd40"
   </div>
 </header>
 
