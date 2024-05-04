@@ -85,6 +85,6 @@ I realized the importance of hands-on experience in cybersecurity, especially in
 #### Masterschool - Security+ Cyber Bootcamp
 #### ACI Learning
 #### TryHackMe
-#### LetsDefend
-#### UnderTheWire
+#### <a href="https://overthewire.org/wargames/">LetsDefend - SOC Analyst/ Blue Team Training</a>
+#### <a href="https://medium.com/@lukegearty/powershell-training-continued-under-the-wire-century-walkthrough-930e40fc5b83">UnderTheWire</a>
 #### <a href="https://overthewire.org/wargames/">OverTheWire</a>
