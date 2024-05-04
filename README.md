@@ -2,7 +2,7 @@
 
 <header id="header"
   <div>
-    <img src="https://github.com/GraveSEC-github/GraveSEC-github/assets/168868092/3933e2a1-9c8f-4692-93c2-55e78506b9f4"
+    <img src="https://www.canva.com/design/DAGEP5Fw-s8/x-Fi-I4d4st_6ERv1lXblg/view?utm_content=DAGEP5Fw-s8&utm_campaign=designshare&utm_medium=link&utm_source=editor"
   </div>
 </header>
 
