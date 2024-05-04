@@ -1,10 +1,10 @@
+# GraveSEC GitHub Portfolio by William Graves
+
 <header id="header"
   <div>
      <img src="https://github.com/GraveSEC-github/GraveSEC-github/assets/168868092/b25e480b-41e9-4c8e-a9bd-cb8cfffdfd40"
   </div>
 </header>
-
-# GraveSEC GitHub Portfolio by William Graves
 
 # About Me
 
