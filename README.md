@@ -23,25 +23,26 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
-### GraveSEC Home Lab Projects
+## GraveSEC Home Lab Projects
 
 I realized the importance of hands-on experience in cybersecurity, especially in a field as dynamic and critical as SOC operations, practical skills would prepare me for real-world scenarios and help me stand out in the job market. I spent some time researching different virtualization platforms and settled on <a href="https://www.proxmox.com/en/proxmox-virtual-environment/overview">Proxmox</a> due to its ease of use, robust features, and cost-effectiveness (it's open-source!). I also mapped out my goals for the lab, focusing on key areas like network security, endpoint protection, threat intelligence, and log management.Since I was just starting out, I didn't invest in expensive hardware. I repurposed an old mini desktop PC with decent specs and ensured it had enough RAM and storage to run multiple virtual machines simultaneously.By working on these beginner projects in my Proxmox-based SOC home lab, I was able to develop a solid foundation in cybersecurity concepts and gain valuable hands-on experience that will assist me my career, you may follow my work below.
 
 - <a href="https://github.com/GraveSEC-github/Active-Directory-Lab/blob/main/README.md">Active Directory Lab</a>
 - <a href="https://github.com/GraveSEC-github/SIEM-Lab/blob/main/README.md">SIEM/ Log Analysis Lab</a>
-- Incident Response
+- Endpoint Analysis Lab (Detection & Response)
+- Incident Response Lab
 - Threat Intelligence Lab
 - AWS Cloud Lab
   
 ## Skills
 
-| Skill                                         | Associated Project         |
+| Skills                                        | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Windows Server 2022 Installation |<a href="https://github.com/GraveSEC-github/Active-Directory-Lab/blob/main/README.md">Active Directory Lab</a>|
 | Active Directory Configuration | <a href="https://github.com/GraveSEC-github/Active-Directory-Lab/blob/main/README.md">Active Directory Lab</a>|
 | SIEM Implementation and Configuration  | <a href="https://github.com/GraveSEC-github/SIEM-Lab/blob/main/README.md">SIEM Lab</a>|
 | Network Monitoring/ Log Analysis (ELK Stack & Splunk)| <a href="https://github.com/GraveSEC-github/SIEM-Lab/blob/main/README.md">SIEM Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Security Automation with Shuffle SOAR         | Endpoint Analysis Lab|
 | Incident Response Planning and Execution      | Incident Response Lab|
 | MITRE ATT&CK Framework | Threat Intelligence Lab|
 | Threat Hunting  | Threat Intelligence Lab|
