@@ -1,6 +1,6 @@
 # GraveSEC GitHub Portfolio
 
-# Hi, I'm William
+ Hi, I'm William
 <a href="www.linkedin.com/in/williamgraves-gravesec"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/WilliamGra38391/"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://www.instagram.com/therealdotwill/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
