@@ -90,19 +90,31 @@ I realized the importance of hands-on experience in cybersecurity, especially in
 #### <a href="https://overthewire.org/wargames/">OverTheWire</a>
 
 
-## Send me an Email:
-<form
-  action="https://formspree.io/f/xrgnjrga"
-  method="POST"
->
-  <label>
-    Your email:
-    <input type="email" name="email">
-  </label>
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
-  <!-- your other form fields go here -->
-  <button type="submit">Send</button>
-</form>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact Form</title>
+</head>
+<body>
+  <h2>Contact Me</h2>
+  <p>Use the form below to send me an email:</p>
+  <form
+    action="https://formspree.io/f/xrgnjrga"
+    method="POST"
+  >
+    <label>
+      Your email:
+      <input type="email" name="email">
+    </label>
+    <label>
+      Your message:
+      <textarea name="message"></textarea>
+    </label>
+    <!-- Add any other form fields you need -->
+    <button type="submit">Send</button>
+  </form>
+</body>
+</html>
+
