@@ -46,7 +46,7 @@ I realized the importance of hands-on experience in cybersecurity, especially in
 | Incident Response Planning and Execution  | Incident Response Lab|
 | MITRE ATT&CK Framework | Threat Intelligence Lab|
 | Threat Hunting  | Threat Intelligence Lab|
-| Amazon Wed Services (AWS) | Cloud Lab|
+| Amazon Wed Services (AWS) | Cloud Database Lab|
 
 ## Tools Used
 
@@ -83,7 +83,7 @@ I realized the importance of hands-on experience in cybersecurity, especially in
 ## Learninng Platforms
 
 #### <a href="https://www.masterschool.com/about-us/">Masterschool - Security+ Bootcamp</a>
-#### ACI Learning
+#### <a href="https://www.acilearning.com/login//">ACI Learning</a>
 #### <a href="https://tryhackme.com/loginTryHackMe/">TryHackMe</a>
 #### <a href="https://overthewire.org/wargames/">LetsDefend - SOC Analyst/ Blue Team Training</a>
 #### <a href="https://medium.com/@lukegearty/powershell-training-continued-under-the-wire-century-walkthrough-930e40fc5b83">UnderTheWire</a>
