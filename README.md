@@ -3,7 +3,7 @@
     <a href="#" class="image avatar"><img src="images/IMG_3879.JPG" alt="" /></a>
     <h1><strong>Welcome to GraveSEC
     </strong><br />
-    </h1>strong><br />
+    </strong></a></h1>
   </div>
 </header>
 
