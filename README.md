@@ -82,7 +82,7 @@ I realized the importance of hands-on experience in cybersecurity, especially in
 
 ## Learninng Platforms
 
-#### Masterschool - Security+ Cyber Bootcamp
+#### <a href="https://www.masterschool.com/about-us/">Masterschool - Security+ Bootcamp</a>
 #### ACI Learning
 #### <a href="https://tryhackme.com/loginTryHackMe/">TryHackMe</a>
 #### <a href="https://overthewire.org/wargames/">LetsDefend - SOC Analyst/ Blue Team Training</a>
