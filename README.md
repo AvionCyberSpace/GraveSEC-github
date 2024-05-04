@@ -1,6 +1,11 @@
 <header id="header"
   <div class="inner">
-    <a href="#" class="image avatar"><img src="images/IMG_3879.JPG" alt="" /></a>a>
+    <a href="#" class="image avatar"><img src="images/IMG_3879.JPG" alt="" /></a>
+    <h1><strong>Welcome to GraveSEC
+    </strong><br />
+    </h1>strong><br />
+  </div>
+</header>
 
 # GraveSEC GitHub Portfolio by William Graves
 
