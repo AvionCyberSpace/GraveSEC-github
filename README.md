@@ -42,8 +42,8 @@ I realized the importance of hands-on experience in cybersecurity, especially in
 | Active Directory Configuration | <a href="https://github.com/GraveSEC-github/Active-Directory-Lab/blob/main/README.md">Active Directory Lab</a>|
 | SIEM Implementation and Configuration  | <a href="https://github.com/GraveSEC-github/SIEM-Lab/blob/main/README.md">SIEM Lab</a>|
 | Network Monitoring/ Log Analysis (ELK Stack & Splunk)| <a href="https://github.com/GraveSEC-github/SIEM-Lab/blob/main/README.md">SIEM Lab</a>|
-| Security Automation with Shuffle SOAR         | Endpoint Analysis Lab|
-| Incident Response Planning and Execution      | Incident Response Lab|
+| Intrusion Detection Systems (IDS), Intrusion Prevention Systems (IPS) Endpoint Detection & Response (EDR)  | Endpoint Analysis Lab|
+| Incident Response Planning and Execution  | Incident Response Lab|
 | MITRE ATT&CK Framework | Threat Intelligence Lab|
 | Threat Hunting  | Threat Intelligence Lab|
 | Amazon Wed Services (AWS) | Cloud Lab|
