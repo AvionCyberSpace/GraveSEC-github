@@ -47,7 +47,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | MITRE ATT&CK Framework | Threat Intelligence Lab|
 | Threat Hunting  | Threat Intelligence Lab|
 
-### Tools Used
+## Tools Used
 
 #### Network Analysis
 <div>
@@ -79,7 +79,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Amazon%20S3-FF9900?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
 </div>
 
-### Learninng Platforms
+## Learninng Platforms
 
 #### Masterschool - Security+ Cyber Bootcamp
 #### ACI Learning
