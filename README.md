@@ -6,11 +6,11 @@
 <a href="https://twitter.com/WilliamGra38391/"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://www.instagram.com/therealdotwill/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
-I am a current cyber security student with profound curiousity in technology, problem solving, IoT and constant learning. I am a Blue/ Purple Teamer whom loves music and cooking for others. I also enjoy participating in moderate fitness and playing basketball. 
+Hi! I am a current cyber security student with profound curiousity in technology, problem solving, IoT and constant learning. I am a Blue/ Purple Teamer whom loves music and cooking for others. I also enjoy participating in playing basketball and moderate fitness. 
 
 ## My Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field. Specifically, I aiming to  venture into the realms of blue and purple team strategies. From fundamental concepts to advanced tactics, join me on this journey to fortify defenses, thwart threats, and secure digital landscapes with confidence and proficiency. Overall, I aspire to be an efficient Tier 1 Analyst and grow into a  more seasoned professional.
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field. Specifically, I aiming to  venture into the realms of blue and purple team strategies. From fundamental concepts to advanced tactics, join me on this journey to fortify defenses, thwart threats, and secure digital landscapes with confidence and proficiency. Overall, I aspire to be an efficient Tier 1 SOC Analyst and grow into a  more seasoned professional.
 
 ## Certifications
 <div>
