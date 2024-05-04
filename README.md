@@ -36,12 +36,12 @@ I realized the importance of hands-on experience in cybersecurity, especially in
   
 ## Experience
 
-| Skills                                        | Associated Project         |
+| Concepts & Skills Learned                 | Associated Lab Project         |
 |-----------------------------------------------|----------------------------|
-| Windows Server 2022 Installation |<a href="https://github.com/GraveSEC-github/Active-Directory-Lab/blob/main/README.md">Active Directory Lab</a>|
-| Active Directory Configuration | <a href="https://github.com/GraveSEC-github/Active-Directory-Lab/blob/main/README.md">Active Directory Lab</a>|
-| SIEM Implementation and Configuration  | <a href="https://github.com/GraveSEC-github/SIEM-Lab/blob/main/README.md">SIEM Lab</a>|
-| Network Monitoring/ Log Analysis (ELK Stack & Splunk)| <a href="https://github.com/GraveSEC-github/SIEM-Lab/blob/main/README.md">SIEM Lab</a>|
+| Windows Server 2022 Installation |<a href="https://github.com/GraveSEC-github/Active-Directory-Lab/blob/main/README.md">Active Directory</a>|
+| Active Directory Configuration | <a href="https://github.com/GraveSEC-github/Active-Directory-Lab/blob/main/README.md">Active Directory</a>|
+| SIEM Implementation and Configuration  | <a href="https://github.com/GraveSEC-github/SIEM-Lab/blob/main/README.md">SIEM</a>|
+| Network Monitoring/ Log Analysis (ELK Stack & Splunk)| <a href="https://github.com/GraveSEC-github/SIEM-Lab/blob/main/README.md">SIEM</a>|
 | Intrusion Detection Systems (IDS), Intrusion Prevention Systems (IPS) Endpoint Detection & Response (EDR)  | Endpoint Analysis Lab|
 | Incident Response Planning and Execution  | Incident Response Lab|
 | MITRE ATT&CK Framework | Threat Intelligence Lab|
@@ -88,3 +88,21 @@ I realized the importance of hands-on experience in cybersecurity, especially in
 #### <a href="https://overthewire.org/wargames/">LetsDefend - SOC Analyst/ Blue Team Training</a>
 #### <a href="https://medium.com/@lukegearty/powershell-training-continued-under-the-wire-century-walkthrough-930e40fc5b83">UnderTheWire</a>
 #### <a href="https://overthewire.org/wargames/">OverTheWire</a>
+
+
+## Send me an Email:
+<form
+  action="https://formspree.io/f/xrgnjrga"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
+</form>
