@@ -2,7 +2,8 @@
 
 <header id="header"
   <div>
-    <img src="https://www.canva.com/design/DAGEO0pACaY/_SKBcgK-dFdiHQXcK65xMA/view?utm_content=DAGEO0pACa&utm_campaign=designshare&utm_medium=link&utm_source=editor">
+    <img src="https://github.com/GraveSEC-github/GraveSEC-github/assets/168868092/3933e2a1-9c8f-4692-93c2-55e78506b9f4"
+"">
   </div>
 </header>
 
