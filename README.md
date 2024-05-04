@@ -1,6 +1,6 @@
 <header id="header"
   <div class="inner">
-     <img src="https://www.canva.com/design/DAGEO0pACaY/I7xLYkTJAANL60ErxPfomw/edit?&style=for-the-badge&logo=Canva&logoColor=white" />
+     <img src="https://www.canva.com/design/DAGEO0pACaY/_SKBcgK-dFdiHQXcK65xMA/view?utm_content=DAGEO0pACaY&utm_campaign=designshare&utm_medium=link&utm_source=editor?&style=for-the-badge&logo=Canva&logoColor=white" />
     </strong><br />
     </strong></a></h1>
   </div>
