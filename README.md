@@ -2,7 +2,7 @@
 
 <header id="header"
   <div>
-     <img src="https://www.canva.com/design/DAGEO0pACaY/_SKBcgK-dFdiHQXcK65xMA/view?utm_content=DAGEO0pACaY&utm_campaign=designshare&utm_medium=link&utm_source=editor"
+    <img src="https://www.canva.com/design/DAGEO0pACaY/_SKBcgK-dFdiHQXcK65xMA/view?utm_content=DAGEO0pACa&utm_campaign=designshare&utm_medium=link&utm_source=editor" -->
   </div>
 </header>
 
