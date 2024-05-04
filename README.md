@@ -1,7 +1,6 @@
 <header id="header"
   <div class="inner">
-    <a href="#" class="image avatar"><img src="images/IMG_3879.JPG" alt="" /></a>
-    <h1><strong>Welcome to GraveSEC
+     <img src="https://www.canva.com/design/DAGEO0pACaY/I7xLYkTJAANL60ErxPfomw/edit?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
     </strong><br />
     </strong></a></h1>
   </div>
