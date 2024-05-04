@@ -1,6 +1,7 @@
 <header id="header"
   <div class="inner">
-     <img src="https://www.canva.com/design/DAGEO0pACaY/_SKBcgK-dFdiHQXcK65xMA/view?utm_content=DAGEO0pACaY&utm_campaign=designshare&utm_medium=link&utm_source=editor?&style=for-the-badge&logo=Canva&logoColor=white" />
+    ![LogoGraveSEC](https://github.com/GraveSEC-github/GraveSEC-github/assets/168868092/b25e480b-41e9-4c8e-a9bd-cb8cfffdfd40)
+
     </strong><br />
     </strong></a></h1>
   </div>
