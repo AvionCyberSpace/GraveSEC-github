@@ -2,7 +2,7 @@
 
 <header id="header"
   <div>
-     <img src="blob:chrome-untrusted://media-app/5d7f4ac2-eaaa-4aa4-b5b3-942ce4a24f1c"
+     <img src="https://www.canva.com/design/DAGEO0pACaY/_SKBcgK-dFdiHQXcK65xMA/view?utm_content=DAGEO0pACaY&utm_campaign=designshare&utm_medium=link&utm_source=editor"
   </div>
 </header>
 
