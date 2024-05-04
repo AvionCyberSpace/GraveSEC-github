@@ -25,25 +25,26 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## GraveSEC Projects
 - <a href="https://github.com/GraveSEC-github/Active-Directory-Lab/blob/main/README.md">Active Directory Lab</a>
-- <a href="https://github.com/GraveSEC-github/SIEM-Lab/blob/main/README.md">SIEM Lab</a>
-- SOC Automation Lab
-- AWS Cloud
+- <a href="https://github.com/GraveSEC-github/SIEM-Lab/blob/main/README.md">SIEM/ Log Analysis Lab</a>
+- AWS Cloud Lab
+- Threat Intelligence Lab
   
 ## Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| MS Active Directory Immplementation and Configuration   |<a href="https://github.com/GraveSEC-github/Active-Directory-Lab/blob/main/README.md">Active Directory Lab</a>
-| MS Active Directory Data Recovery       | <a href="https://github.com/GraveSEC-github/Active-Directory-Lab/blob/main/README.md">Active Directory Lab</a>
+| Windows Server 2022 Installation |<a href="https://github.com/GraveSEC-github/Active-Directory-Lab/blob/main/README.md">Active Directory Lab</a>
+| Active Directory Configuration | <a href="https://github.com/GraveSEC-github/Active-Directory-Lab/blob/main/README.md">Active Directory Lab</a>
+| Active Directory Incidetn Response & Data Recovery | <a href="https://github.com/GraveSEC-github/Active-Directory-Lab/blob/main/README.md">Active Directory Lab</a>
 | SIEM Implementation and Log Analysis  | <a href="https://github.com/GraveSEC-github/SIEM-Lab/blob/main/README.md">SIEM Lab</a>|
+| ELK Stack & Splunk| <a href="https://github.com/GraveSEC-github/SIEM-Lab/blob/main/README.md">SIEM Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/GraveSEC-github/SIEM-Lab/blob/main/README.md">SIEM Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 | (AWS) Amazon Wed Services  | Cloud Lab|
-| Threat Intelligence   | Threat Intelligence Lab|
-| Threat Hunting   | Threat Intelligence Lab|
+| MITRE ATT&CK Framework | Threat Intelligence Lab|
+| Threat Hunting  | Threat Intelligence Lab|
 
 ## Tools
 
