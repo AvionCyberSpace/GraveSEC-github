@@ -3,7 +3,6 @@
 <header id="header"
   <div>
     <img src="https://github.com/GraveSEC-github/GraveSEC-github/assets/168868092/3933e2a1-9c8f-4692-93c2-55e78506b9f4"
-"">
   </div>
 </header>
 
