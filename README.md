@@ -47,7 +47,7 @@ I realized the importance of hands-on experience in cybersecurity, especially in
 | Intrusion Detection Systems (IDS), Intrusion Prevention Systems (IPS) Endpoint Detection & Response (EDR)  | Blue Team/ DFIR|
 | Incident Response Planning and Execution  | Blue Team/ DFIR|
 | Data Sniffing, Exploitation, Escalation, Persistence, Exfiltration, Sabotage & Avoiding Detection  | Rouge Red Team|
-| NIST & SANS Frameworks & Best Practices| Security Awareness |
+| NIST Framework & Best Practices| Security Awareness |
 | MITRE ATT&CK Framework | Threat Intelligence |
 | Linux Basics for Hackers  | Linux OS|
 | AWS Database/ Pre-Certified Cloud Practitioner | AWS Cloud|
@@ -70,24 +70,11 @@ I realized the importance of hands-on experience in cybersecurity, especially in
    </a>
 </div>
 
-#### Network Analysis
+#### Blue Team, SIEM & Network Analysis 
 <div>
-  <a href="https://www.wireshark.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-Wireshark-0074D9?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-</a>
-  <a href="https://opnsense.org/about/about-opnsense/" target="_blank">
+    <a href="https://opnsense.org/about/about-opnsense/" target="_blank">
     <img src="https://img.shields.io/badge/-OpnSense-848484?&style=for-the-badge&logo=OpnSense&logoColor=white" />
 </a>
-   <a href="https://zeek.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-Zeek-B57EDC?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</a>
-  <a href="https://suricata.io/" target="_blank">
-    <img src="https://img.shields.io/badge/-Suricata-FF4500?&style=for-the-badge&logo=Suricata&logoColor=white" />
-</a>
-</div>
-
-#### SIEM/ Log Analysis
-<div>
     <a href="https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview/" target="_blank">
       <img src="https://img.shields.io/badge/-Microsoft_Active_Directory-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" />
     </a>
@@ -97,10 +84,26 @@ I realized the importance of hands-on experience in cybersecurity, especially in
   <a href="https://www.elastic.co/elastic-stack/" target="_blank">
     <img src="https://img.shields.io/badge/-Elastic Stack-008080?&style=for-the-badge&logo=Elastic&logoColor=blue&labelColor=yellow" />
   </a>
+  <a href="https://www.wireshark.org/" target="_blank">
+    <img src="https://img.shields.io/badge/-Wireshark-0074D9?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+</a>
+  <a href="https://zeek.org/" target="_blank">
+    <img src="https://img.shields.io/badge/-Zeek-B57EDC?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</a>
+  <a href="https://suricata.io/" target="_blank">
+    <img src="https://img.shields.io/badge/-Suricata-FF4500?&style=for-the-badge&logo=Suricata&logoColor=white" />
+</a>
 </div>
 
-#### Endpoint Detection & Response
-<div>
+ #### Security Awareness
+ <div>
+ <a href="https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/-NIST_Framework-1679A7?&style=for-the-badge&logo=NIST&logoColor=white" />
+</a>
+</div>
+
+  #### DFIR
+  <div>
   <a href="https://www.microsoft.com/en-us/security/business/microsoft-defender-for-business-and-individuals-free-trial/" target="_blank">
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
   </a>
@@ -121,6 +124,13 @@ I realized the importance of hands-on experience in cybersecurity, especially in
   <a href="https://aws.amazon.com/about-aws/whats-new/2017/11/free-aws-digital-training-and-new-cloud-practitioner-certification/" target="_blank">
     <img src="https://img.shields.io/badge/-Amazon Web Services-FF9900?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white&labelColor=black" />
   </a>
+</div>
+
+ #### Other Tools
+ <div>
+ <a href="https://www.virustotal.com/gui/home/upload" target="_blank">
+    <img src="https://img.shields.io/badge/-Virus_Total-0074D9?&style=for-the-badge&logo=VirusTotal&logoColor=white" />
+</a>
 </div>
 
 ## Learning Platforms
