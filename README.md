@@ -40,17 +40,17 @@ I realized the importance of hands-on experience in cybersecurity, especially in
 
 | Concepts & Skills Learned                 | Associated Lab Project         |
 |-----------------------------------------------|----------------------------|
-| Windows Server Implementation - AD, DNS, DC & Sysmon Log Configuration |<a href="https://github.com/GraveSEC-github/Active-Directory-Lab/blob/main/README.md">Active Directory</a>|
+| Windows Server Implementation - AD, DNS, DC & Sysmon Log Configuration |<a href="https://github.com/GraveSEC-github/Active-Directory-Lab/blob/main/README.md">Windows Server/ Active Directory</a>|
 | Powershell and C/ C++| <a href="https://github.com/GraveSEC-github/Active-Directory-Lab/blob/main/README.md">Active Directory</a>|
-| Building 'GraveSEC SOC/ SIEM' | <a href="https://github.com/GraveSEC-github/SIEM-Lab/blob/main/README.md">SIEM/ Log Analysis</a>|
-| Network Monitoring/ Log Analysis (ELK Stack & Splunk)| <a href="https://github.com/GraveSEC-github/SIEM-Lab/blob/main/README.md">SIEM/ Log Analysis</a>|
-| Intrusion Detection Systems (IDS), Intrusion Prevention Systems (IPS) Endpoint Detection & Response (EDR)  | Blue Team/ DFIR|
-| Incident Response Planning and Execution  | Blue Team/ DFIR|
-| Data Sniffing, Exploitation, Escalation, Persistence, Exfiltration, Sabotage & Avoiding Detection  | Rouge Red Team|
-| NIST Framework & Best Practices| Security Awareness |
-| MITRE ATT&CK Framework | Threat Intelligence |
-| Linux Basics for Hackers  | Linux OS|
-| AWS Database/ Pre-Certified Cloud Practitioner | AWS Cloud|
+| Building 'GraveSEC SOC/ SIEM' | <a href="https://github.com/GraveSEC-github/SIEM-Lab/blob/main/README.md">SIEM/ Log Analysis</a> & <a href="https://github.com/GraveSEC-github/Blue-Team-and-DFIR/blob/main/README.md">Blue Team</a>|
+| Network Monitoring/ Log Analysis (ELK Stack & Splunk)| <a href="https://github.com/GraveSEC-github/SIEM-Lab/blob/main/README.md">SIEM/ Log Analysis</a> & <a href="https://github.com/GraveSEC-github/Blue-Team-and-DFIR/blob/main/README.md">Blue Team/ DFIR</a>|
+| Intrusion Detection Systems (IDS), Intrusion Prevention Systems (IPS) Endpoint Detection & Response (EDR)  | <a href="https://github.com/GraveSEC-github/SIEM-Lab/blob/main/README.md">SIEM/ Log Analysis</a> & <a href="https://github.com/GraveSEC-github/Blue-Team-and-DFIR/blob/main/README.md">Blue Team/ DFIR</a>|
+| Incident Response Planning and Execution  | <a href="https://github.com/GraveSEC-github/Blue-Team-and-DFIR/blob/main/README.md">Blue Team/ DFIR</a>|
+| Data Sniffing, Exploitation, Escalation, Persistence, Exfiltration, Sabotage & Avoiding Detection  | <a href="https://github.com/GraveSEC-github/Rouge-Red-Team/blob/main/README.md">Rouge Red Team</a>|
+| NIST Framework & Best Practices| <a href="https://github.com/GraveSEC-github/Security-Awareness/blob/main/README.md">Security Awareness</a>|
+| MITRE ATT&CK Framework | <a href="https://github.com/GraveSEC-github/Threat-Intelligence-Frameworks/blob/main/README.md">Threat Intelligence</a>|
+| Linux Basics for Hackers  | <a href="https://github.com/GraveSEC-github/Linux-OS/blob/main/README.md">Linux OS</a>|
+| AWS Database/ Pre-Certified Cloud Practitioner | <a href="https://github.com/GraveSEC-github/AWS-Cloud/blob/main/README.md">AWS Cloud</a>|
 
 ## Tools Used
 
