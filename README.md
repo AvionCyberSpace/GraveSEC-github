@@ -34,7 +34,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Intrusion Detection Systems (IDS), Intrusion Prevention Systems (IPS) Endpoint Detection & Response (EDR)  | <a href="https://github.com/GraveSEC-github/SIEM-Lab/blob/main/README.md">SIEM/ Log Analysis</a> & <a href="https://github.com/GraveSEC-github/Blue-Team-and-DFIR/blob/main/README.md">Blue Team/ DFIR</a>|
 | Incident Response Planning and Execution  | <a href="https://github.com/GraveSEC-github/Blue-Team-and-DFIR/blob/main/README.md">Blue Team/ DFIR</a>|
 | Data Sniffing, Exploitation, Escalation, Persistence, Exfiltration, Sabotage & Avoiding Detection  | <a href="https://github.com/GraveSEC-github/Rouge-Red-Team/blob/main/README.md">Rouge Red Team</a>|
-| NIST Framework & Best Practices| <a href="https://github.com/GraveSEC-github/Security-Awareness/blob/main/README.md">Security Awareness</a>|
+| Security Intelligence, NIST Framework & Best Practices| <a href="https://github.com/GraveSEC-github/Security-Awareness/blob/main/README.md">Security Awareness</a>|
 | MITRE ATT&CK Framework | <a href="https://github.com/GraveSEC-github/Threat-Intelligence-Frameworks/blob/main/README.md">Threat Intelligence</a>|
 | Linux Basics for Hackers  | <a href="https://github.com/GraveSEC-github/Linux-OS/blob/main/README.md">Linux OS</a>|
 | AWS Database/ Pre-Certified Cloud Practitioner | <a href="https://github.com/GraveSEC-github/AWS-Cloud/blob/main/README.md">AWS Cloud</a>|
