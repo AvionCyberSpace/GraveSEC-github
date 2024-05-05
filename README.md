@@ -60,7 +60,7 @@ I realized the importance of hands-on experience in cybersecurity, especially in
     <img src="https://img.shields.io/badge/-hp_g2_mini-1679A7?&style=for-the-badge&logo=HP&logoColor=white" />
 </a>
   <a href="https://www.proxmox.com/en/proxmox-virtual-environment/overview" target="_blank">
-    <img src="https://img.shields.io/badge/-Proxmox-FFA500?&style=for-the-badge&logo=Proxmox&logoColor=orange&labelColor=black" />
+    <img src="https://img.shields.io/badge/-Proxmox-FF9933?&style=for-the-badge&logo=Proxmox&logoColor=orange&labelColor=black" />
 </a>
   <a href="https://lucky-salto-c8e.notion.site/Linux-Operating-System-cae01ce27c4d4088bf2c6258bd991cc1?pvs=4/" target="_blank">
   <img src="https://img.shields.io/badge/-Linux-000000?&style=for-the-badge&logo=Linux&logoColor=white" />
