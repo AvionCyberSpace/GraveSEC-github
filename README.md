@@ -62,6 +62,9 @@ I realized the importance of hands-on experience in cybersecurity, especially in
   <a href="https://www.proxmox.com/en/proxmox-virtual-environment/overview" target="_blank">
     <img src="https://img.shields.io/badge/-Proxmox-FF9933?&style=for-the-badge&logo=Proxmox&logoColor=orange&labelColor=black" />
 </a>
+  <a href="https://opnsense.org/about/about-opnsense/" target="_blank">
+    <img src="https://img.shields.io/badge/-OpnSense-848484?&style=for-the-badge&logo=OpnSense&logoColor=white" />
+</a>
   <a href="https://lucky-salto-c8e.notion.site/Linux-Operating-System-cae01ce27c4d4088bf2c6258bd991cc1?pvs=4/" target="_blank">
   <img src="https://img.shields.io/badge/-Linux-000000?&style=for-the-badge&logo=Linux&logoColor=white" />
   </a>
@@ -72,9 +75,6 @@ I realized the importance of hands-on experience in cybersecurity, especially in
 
 #### Blue Team, SIEM & Network Analysis 
 <div>
-    <a href="https://opnsense.org/about/about-opnsense/" target="_blank">
-    <img src="https://img.shields.io/badge/-OpnSense-848484?&style=for-the-badge&logo=OpnSense&logoColor=white" />
-</a>
     <a href="https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview/" target="_blank">
       <img src="https://img.shields.io/badge/-Microsoft_Active_Directory-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" />
     </a>
