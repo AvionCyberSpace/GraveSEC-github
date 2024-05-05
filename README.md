@@ -12,11 +12,11 @@
 <a href="https://twitter.com/WilliamGra38391/"><img src="https://img.shields.io/badge/-X-333333?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://www.instagram.com/therealdotwill/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=purple" /></a>
 
-Hello ! I am William Graves, a current cyber security student with profound curiousity in technology, challenges, IoT and constant learning. I'm an aspiring Blue/ Purple Teamer whom loves music, cooking and spending time with close friends and loved ones. I also enjoy moderate fitness and participating in playing basketball from time to time. In my other free time, my hobby is cyber security.
+Hello ! I am William Graves, a current cyber security student with profound curiosity in technology, challenges, IoT and constant learning. I'm an aspiring Blue/ Purple Teamer whom loves music, cooking and spending time with close friends and loved ones. I also enjoy moderate fitness and participating in playing basketball from time to time. In my other free time, my hobby is cyber security.
 
 ### My Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field. Specifically, I'm aiming to  venture into the realms of Blue and Purple team SOC strategies. From fundamental concepts to advanced tactics, join me on this journey to fortify defenses, thwart threats, and secure digital landscapes with confidence and proficiency. Overall, I aspire to be an efficient Tier 1 SOC Analyst and grow into a  more seasoned professional.
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field. Specifically, I'm aiming to  venture into the realms of Blue and Purple team SOC strategies. From fundamental concepts to advanced tactics, join me on this journey to fortify defenses, thwart threats, and secure digital landscapes with confidence and proficiency. Overall, I strive to be an proficient Tier 1 SOC Analyst and grow into a more seasoned professional through continous education and curiosity.
 
 ## Certifications
 <div>
