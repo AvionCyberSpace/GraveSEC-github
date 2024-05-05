@@ -31,6 +31,7 @@ I realized the importance of hands-on experience in cybersecurity, especially in
 - <a href="https://github.com/GraveSEC-github/SIEM-and-Log-Analysis/blob/main/README.md">SIEM/ Log Analysis</a>
 - <a href="https://github.com/GraveSEC-github/Blue-Team-and-DFIR/blob/main/README.md">Blue Team/ DFIR Lab</a>
 - <a href="https://github.com/GraveSEC-github/Rouge-Red-Team/blob/main/README.md">Red Team Lab</a>
+- <a href="https://github.com/GraveSEC-github/Security-Awareness/blob/main/README.md">Security Awareness</a>
 - <a href="https://github.com/GraveSEC-github/Threat-Intelligence-Frameworks/blob/main/README.md">Threat Intelligence Frameworks</a>
 - <a href="https://github.com/GraveSEC-github/Linux-OS/blob/main/README.md">Linux OS Fundamentals</a>
 - <a href="https://github.com/GraveSEC-github/AWS-Cloud/blob/main/README.md">AWS Cloud Lab</a>
@@ -45,9 +46,11 @@ I realized the importance of hands-on experience in cybersecurity, especially in
 | Network Monitoring/ Log Analysis (ELK Stack & Splunk)| <a href="https://github.com/GraveSEC-github/SIEM-Lab/blob/main/README.md">SIEM/ Log Analysis</a>|
 | Intrusion Detection Systems (IDS), Intrusion Prevention Systems (IPS) Endpoint Detection & Response (EDR)  | Blue Team/ DFIR|
 | Incident Response Planning and Execution  | Blue Team/ DFIR|
-| MITRE ATT&CK Framework | Threat Intelligence Lab|
-| Threat Hunting  | Threat Intelligence Lab|
-| Amazon Wed Services (AWS) | Cloud Database Lab|
+| Data Sniffing, Exploitation, Escalation, Persistence, Exfiltration, Sabotage & Avoiding Detection  | Rouge Red Team|
+| NIST & SANS Frameworks & Best Practices| Security Awareness |
+| MITRE ATT&CK Framework | Threat Intelligence |
+| Linux Basics for Hackers  | Linux OS|
+| AWS Database/ Pre-Certified Cloud Practitioner | AWS Cloud|
 
 ## Tools Used
 
