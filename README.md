@@ -128,8 +128,14 @@ I realized the importance of hands-on experience in cybersecurity, especially in
 
  #### Other Tools
  <div>
+   <a href="https://nmap.org/" target="_blank">
+    <img src="https://img.shields.io/badge/-Nmap-800080?&style=for-the-badge&logo=Nmap&logoColor=white" />
+</a>
    <a href="https://www.metasploit.com/" target="_blank">
     <img src="https://img.shields.io/badge/-Metasploit-1679A7?&style=for-the-badge&logo=Metasploit&logoColor=white" />
+</a>
+   <a href="https://www.exploit-db.com/about-exploit-db" target="_blank">
+    <img src="https://img.shields.io/badge/-Exploit_Database-00008B?&style=for-the-badge&logo=Exploit-Database&logoColor=white" />
 </a>
  <a href="https://www.virustotal.com/gui/home/upload" target="_blank">
     <img src="https://img.shields.io/badge/-Virus_Total-0074D9?&style=for-the-badge&logo=VirusTotal&logoColor=white" />
