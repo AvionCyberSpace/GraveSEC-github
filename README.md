@@ -1,4 +1,4 @@
-# GraveSEC Portfolio by William Graves
+![github-snake](https://github.com/GraveSEC-github/GraveSEC-github/assets/168868092/2a2ae7aa-ca40-427d-9ad6-6433c786537a)# GraveSEC Portfolio by William Graves
 
 <header id="header"
   <div>
