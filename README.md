@@ -128,6 +128,9 @@ I realized the importance of hands-on experience in cybersecurity, especially in
 
  #### Other Tools
  <div>
+   <a href="https://www.metasploit.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-Metasploit-1679A7?&style=for-the-badge&logo=Metasploit&logoColor=white" />
+</a>
  <a href="https://www.virustotal.com/gui/home/upload" target="_blank">
     <img src="https://img.shields.io/badge/-Virus_Total-0074D9?&style=for-the-badge&logo=VirusTotal&logoColor=white" />
 </a>
