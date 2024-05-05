@@ -9,8 +9,8 @@
 ## About Me
 
 <a href="https://www.linkedin.com/in/williamgraves-gravesec"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/WilliamGra38391/"><img src="https://img.shields.io/badge/-X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://www.instagram.com/therealdotwill/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://twitter.com/WilliamGra38391/"><img src="https://img.shields.io/badge/-X-333333?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://www.instagram.com/therealdotwill/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=purple" /></a>
 
 Hi! I am a current cyber security student with profound curiousity in technology, problem solving, IoT and constant learning. I am a Blue/ Purple Teamer whom loves music and cooking for my friends and family. I also enjoy participating in playing basketball and moderate fitness. 
 
@@ -32,6 +32,7 @@ I realized the importance of hands-on experience in cybersecurity, especially in
 - Endpoint Analysis Lab (Detection & Response)
 - Incident Response Lab
 - Threat Intelligence Lab
+- Red Team Lab
 - AWS Cloud Lab
   
 ## Experience
