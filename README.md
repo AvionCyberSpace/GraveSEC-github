@@ -125,7 +125,7 @@ I realized the importance of hands-on experience in cybersecurity, especially in
 
 #### <a href="https://www.masterschool.com/about-us/">Masterschool - Security+ Bootcamp</a>
 #### <a href="https://www.acilearning.com/login//">ACI Learning</a>
-#### <a href="https://tryhackme.com/loginTryHackMe/">TryHackMe</a>
+#### <a href="https://tryhackme.com/r/about/">TryHackMe</a>
 #### <a href="https://overthewire.org/wargames/">LetsDefend - SOC Analyst/ Blue Team Training</a>
 #### <a href="https://medium.com/@lukegearty/powershell-training-continued-under-the-wire-century-walkthrough-930e40fc5b83">UnderTheWire</a>
 #### <a href="https://overthewire.org/wargames/">OverTheWire</a>
