@@ -20,7 +20,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white&labelColor=black" />
 </div>
 
 ## GraveSEC Home Lab Projects
@@ -29,10 +29,11 @@ I realized the importance of hands-on experience in cybersecurity, especially in
 
 - <a href="https://github.com/GraveSEC-github/Active-Directory-Lab/blob/main/README.md">Active Directory Lab</a>
 - <a href="https://github.com/GraveSEC-github/SIEM-Lab/blob/main/README.md">SIEM/ Log Analysis Lab</a>
-- Endpoint Analysis Lab (Detection & Response)
-- Incident Response Lab
-- Threat Intelligence Lab
+- Endpoint Analysis Lab
+- Blue Team/ DFIR Lab
 - Red Team Lab
+- Threat Intelligence Lab
+- Linux Fundamentals
 - AWS Cloud Lab
   
 ## Experience
@@ -59,10 +60,12 @@ I realized the importance of hands-on experience in cybersecurity, especially in
   <a href="https://www.proxmox.com/en/proxmox-virtual-environment/overview" target="_blank">
     <img src="https://img.shields.io/badge/-Proxmox-FFA500?&style=for-the-badge&logo=Proxmox&logoColor=orange&labelColor=black" />
 </a>
+  <a href="https://lucky-salto-c8e.notion.site/Linux-Operating-System-cae01ce27c4d4088bf2c6258bd991cc1?pvs=4/" target="_blank">
   <img src="https://img.shields.io/badge/-Linux-000000?&style=for-the-badge&logo=Linux&logoColor=white" />
+  </a>
+   <a href="https://www.microsoft.com/en-us/windows" target="_blank">
   <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
-
-
+   </a>
 </div>
 
 #### Network Analysis
@@ -94,10 +97,14 @@ I realized the importance of hands-on experience in cybersecurity, especially in
   </a>
 </div>
 
-#### Endpoint Deonection & Response
+#### Endpoint Detection & Response
 <div>
+  <a href="https://www.microsoft.com/en-us/security/business/microsoft-defender-for-business-and-individuals-free-trial/" target="_blank">
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+  </a>
+   <a href="https://www.rapid7.com/products/velociraptor/" target="_blank">
+    <img src="https://img.shields.io/badge/-Velociraptor-006400?&style=for-the-badge&logo=Rapid7&logoColor=white" />
+</a>
 </div>
 
 #### Threat Intelligence
