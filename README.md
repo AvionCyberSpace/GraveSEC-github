@@ -1,4 +1,4 @@
-![github-snake](https://github.com/GraveSEC-github/GraveSEC-github/assets/168868092/2a2ae7aa-ca40-427d-9ad6-6433c786537a)# GraveSEC Portfolio by William Graves
+# GraveSEC Portfolio by William Graves
 
 <header id="header"
   <div>
@@ -142,7 +142,7 @@ I realized the importance of hands-on experience in cybersecurity, especially in
 </a>
 </div>
 
-## Learning Platforms
+## Learning Platforms 🚀
 
 #### <a href="https://www.masterschool.com/about-us/">Masterschool - Security+ Bootcamp</a>
 #### <a href="https://www.acilearning.com/login//">ACI Learning</a>
@@ -150,3 +150,5 @@ I realized the importance of hands-on experience in cybersecurity, especially in
 #### <a href="https://overthewire.org/wargames/">LetsDefend - SOC Analyst/ Blue Team Training</a>
 #### <a href="https://medium.com/@lukegearty/powershell-training-continued-under-the-wire-century-walkthrough-930e40fc5b83">UnderTheWire</a>
 #### <a href="https://overthewire.org/wargames/">OverTheWire</a>
+
+
