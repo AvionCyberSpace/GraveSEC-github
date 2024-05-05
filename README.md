@@ -22,6 +22,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white&labelColor=black" />
 </div>
+<div>
+<a href="https://lucky-salto-c8e.notion.site/CompTIA-Security-Study-Index-0e1973f64e424b51a27139ee5e9ac319?pvs=4/blob/main/README.md">Security+ Study Index</a> : All of the notes I personally took while studying for the CompTIA Security+ certification.
+</div>
   
 ## Experience
 
@@ -128,6 +131,9 @@ I realized the importance of hands-on experience in cybersecurity, especially in
 
  #### Other Tools
  <div>
+   <a href="https://osintframework.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-OSINT-000000?&style=for-the-badge&logo=OSINT&logoColor=white" />
+</a>
    <a href="https://nmap.org/" target="_blank">
     <img src="https://img.shields.io/badge/-Nmap-800080?&style=for-the-badge&logo=Nmap&logoColor=white" />
 </a>
