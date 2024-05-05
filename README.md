@@ -59,6 +59,9 @@ I realized the importance of hands-on experience in cybersecurity, especially in
   <a href="https://www.proxmox.com/en/proxmox-virtual-environment/overview" target="_blank">
     <img src="https://img.shields.io/badge/-Proxmox-FFA500?&style=for-the-badge&logo=Proxmox&logoColor=orange&labelColor=black" />
 </a>
+  <img src="https://img.shields.io/badge/-Linux-000000?&style=for-the-badge&logo=Linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
+
 
 </div>
 
@@ -81,7 +84,7 @@ I realized the importance of hands-on experience in cybersecurity, especially in
 #### SIEM/ Log Analysis
 <div>
     <a href="https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview/" target="_blank">
-      <img src="https://img.shields.io/badge/-Microsoft_Active_Directory-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white&labelColor=black" />
+      <img src="https://img.shields.io/badge/-Microsoft_Active_Directory-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" />
     </a>
     <a href="https://www.splunk.com/" target="_blank">
       <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white&labelColor=hotpink" />
@@ -93,7 +96,7 @@ I realized the importance of hands-on experience in cybersecurity, especially in
 
 #### Endpoint Deonection & Response
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white&labelColor=black" />
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
