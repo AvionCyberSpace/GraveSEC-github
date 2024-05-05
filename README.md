@@ -1,4 +1,4 @@
-# GraveSEC GitHub Portfolio by William Graves
+# GraveSEC Portfolio by William Graves
 
 <header id="header"
   <div>
@@ -50,29 +50,46 @@ I realized the importance of hands-on experience in cybersecurity, especially in
 
 ## Tools Used
 
+#### Hardware & Virualization
+<div>
+  <a href="https://www.proxmox.com/en/proxmox-virtual-environment/overview" target="_blank">
+    <img src="https://img.shields.io/badge/-Proxmox-FFA500?&style=for-the-badge&logo=Proxmox&logoColor=orange&labelColor=black" />
+</a>
+
+</div>
+
 #### Network Analysis
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+  <a href="https://www.wireshark.org/" target="_blank">
+    <img src="https://img.shields.io/badge/-Wireshark-0074D9?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+</a>
+  <a href="https://opnsense.org/about/about-opnsense/" target="_blank">
+    <img src="https://img.shields.io/badge/-OpnSense-848484?&style=for-the-badge&logo=OpnSense&logoColor=white" />
+</a>
+   <a href="https://zeek.org/" target="_blank">
+    <img src="https://img.shields.io/badge/-Zeek-B57EDC?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</a>
+  <a href="https://suricata.io/" target="_blank">
+    <img src="https://img.shields.io/badge/-Suricata-FF4500?&style=for-the-badge&logo=Suricata&logoColor=white" />
+</a>
 </div>
 
 #### SIEM/ Log Analysis
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Active_Directory-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
 #### Endpoint Deonection & Response
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
 #### Threat Intelligence
 <div>
-    <img src="https://img.shields.io/badge/-MITRE_ATT&CK-4B275F?&style=for-the-badge&logo=MITRE&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MITRE_ATT&CK-FB4D4D?&style=for-the-badge&logo=MITRE&logoColor=white" />
 </div>
 
 #### Cloud Database
@@ -88,4 +105,3 @@ I realized the importance of hands-on experience in cybersecurity, especially in
 #### <a href="https://overthewire.org/wargames/">LetsDefend - SOC Analyst/ Blue Team Training</a>
 #### <a href="https://medium.com/@lukegearty/powershell-training-continued-under-the-wire-century-walkthrough-930e40fc5b83">UnderTheWire</a>
 #### <a href="https://overthewire.org/wargames/">OverTheWire</a>
-
