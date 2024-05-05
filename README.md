@@ -52,6 +52,9 @@ I realized the importance of hands-on experience in cybersecurity, especially in
 
 #### Hardware & Virualization
 <div>
+  <a href="https://www.mrmemory.co.uk/memory-ram-upgrades/hp/prodesk/600-g2-mini" target="_blank">
+    <img src="https://img.shields.io/badge/-hp_g2_mini-1679A7?&style=for-the-badge&logo=HP&logoColor=white" />
+</a>
   <a href="https://www.proxmox.com/en/proxmox-virtual-environment/overview" target="_blank">
     <img src="https://img.shields.io/badge/-Proxmox-FFA500?&style=for-the-badge&logo=Proxmox&logoColor=orange&labelColor=black" />
 </a>
@@ -76,25 +79,35 @@ I realized the importance of hands-on experience in cybersecurity, especially in
 
 #### SIEM/ Log Analysis
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Active_Directory-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <a href="https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview/" target="_blank">
+      <img src="https://img.shields.io/badge/-Microsoft_Active_Directory-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white&labelColor=black" />
+    </a>
+    <a href="https://www.splunk.com/" target="_blank">
+      <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white&labelColor=hotpink" />
+    </a>
+  <a href="https://www.elastic.co/elastic-stack/" target="_blank">
+    <img src="https://img.shields.io/badge/-Elastic Stack-008080?&style=for-the-badge&logo=Elastic&logoColor=blue&labelColor=yellow" />
+  </a>
 </div>
 
 #### Endpoint Deonection & Response
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white&labelColor=black" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
 #### Threat Intelligence
 <div>
+  <a href="https://attack.mitre.org/" target="_blank">
     <img src="https://img.shields.io/badge/-MITRE_ATT&CK-FB4D4D?&style=for-the-badge&logo=MITRE&logoColor=white" />
+</a>
 </div>
 
 #### Cloud Database
 <div>
-    <img src="https://img.shields.io/badge/-Amazon%20S3-FF9900?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+  <a href="https://aws.amazon.com/about-aws/whats-new/2017/11/free-aws-digital-training-and-new-cloud-practitioner-certification/" target="_blank">
+    <img src="https://img.shields.io/badge/-Amazon Web Services-FF9900?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white&labelColor=black" />
+  </a>
 </div>
 
 ## Learninng Platforms
