@@ -22,9 +22,13 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white&labelColor=black" />
 </div>
-<div>
-<a href="https://lucky-salto-c8e.notion.site/CompTIA-Security-Study-Index-0e1973f64e424b51a27139ee5e9ac319?pvs=4/blob/main/README.md">Security+ Study Index</a> : All of the notes I personally took while studying for the CompTIA Security+ certification.
-</div>
+<table>
+  <tr>
+    <td>
+<a href="https://lucky-salto-c8e.notion.site/CompTIA-Security-Study-Index-0e1973f64e424b51a27139ee5e9ac319?pvs=4/blob/main/README.md">CompTIA Security+ Study Index</a> : All of the notes I personally took while studying for the CompTIA Security+ certification. 
+</td>
+  </tr>
+</table>
   
 ## Experience
 
