@@ -12,7 +12,7 @@
 <a href="https://twitter.com/WilliamGra38391/"><img src="https://img.shields.io/badge/-X-333333?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://www.instagram.com/therealdotwill/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=purple" /></a>
 
-Hello ! I am William Graves, a current cyber security student with profound curiosity in technology, challenges, IoT and constant learning. I'm an aspiring Blue/ Purple Teamer whom loves music, cooking and spending time with close friends and loved ones. I also enjoy moderate fitness and participating in playing basketball from time to time. In my other free time, my hobby is cyber security.
+Hello ! I am William Graves, a current cyber security student with profound curiosity in technology, challenges, IoT and constant learning. I'm an aspiring Blue/ Purple Teamer whom loves rap, R&B and jazz music. Thriller and suspenseful movies. I also enjoy moderate fitness and participating in playing basketball from time to time. As well as cooking and spending time with close friends and loved ones, in my other free time, my hobby is cyber security.
 
 ### My Objective
 
