@@ -37,6 +37,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skills & Practices                 | Associated Lab Project         |
 |-----------------------------------------------|----------------------------|
+| Security Intelligence, NIST Framework & Best Practices| <a href="https://github.com/GraveSEC-github/Security-Awareness/blob/main/README.md">Security Awareness</a>|
 | Windows Server Implementation - AD, DNS, DC & Sysmon Log Configuration |<a href="https://github.com/GraveSEC-github/Active-Directory-Lab/blob/main/README.md">Windows Server/ Active Directory</a>|
 | Powershell and C/ C++| <a href="https://github.com/GraveSEC-github/Active-Directory-Lab/blob/main/README.md">Windows Server</a>|
 | Building 'GraveSEC SOC' | <a href="https://github.com/GraveSEC-github/SIEM-Lab/blob/main/README.md">SIEM/ Log Analysis</a> & <a href="https://github.com/GraveSEC-github/Blue-Team-and-DFIR/blob/main/README.md">Blue Team</a>|
@@ -44,7 +45,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Intrusion Detection Systems (IDS), Intrusion Prevention Systems (IPS) Endpoint Detection & Response (EDR)  | <a href="https://github.com/GraveSEC-github/SIEM-Lab/blob/main/README.md">SIEM/ Log Analysis</a> & <a href="https://github.com/GraveSEC-github/Blue-Team-and-DFIR/blob/main/README.md">Blue Team/ DFIR</a>|
 | Incident Response Planning and Execution  | <a href="https://github.com/GraveSEC-github/Blue-Team-and-DFIR/blob/main/README.md">Blue Team/ DFIR</a>|
 | Data Sniffing, Exploitation, Escalation, Persistence, Exfiltration, Sabotage & Avoiding Detection  | <a href="https://github.com/GraveSEC-github/Rouge-Red-Team/blob/main/README.md">Rouge Red Team</a>|
-| Security Intelligence, NIST Framework & Best Practices| <a href="https://github.com/GraveSEC-github/Security-Awareness/blob/main/README.md">Security Awareness</a>|
 | MITRE ATT&CK Framework | <a href="https://github.com/GraveSEC-github/Threat-Intelligence-Frameworks/blob/main/README.md">Threat Intelligence</a>|
 | Linux Basics for Hackers  | <a href="https://github.com/GraveSEC-github/Linux-OS/blob/main/README.md">Linux OS</a>|
 | AWS Database/ Pre-Certified Cloud Practitioner | <a href="https://github.com/GraveSEC-github/AWS-Cloud/blob/main/README.md">AWS Cloud</a>|
@@ -53,11 +53,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 I realized the importance of hands-on experience in cybersecurity, especially in a field as dynamic and critical as SOC operations, practical skills would prepare me for real-world scenarios and help me stand out in the job market. I spent some time researching different virtualization platforms and settled on <a href="https://www.proxmox.com/en/proxmox-virtual-environment/overview">Proxmox</a> due to its ease of use, robust features, and cost-effectiveness (it's open-source!). I also mapped out my goals for the lab, focusing on key areas like network security, endpoint protection, threat intelligence, and log management. Since I was just starting out, I did not want to invest in expensive hardware, so I repurposed an old mini desktop PC with decent specs and ensured it had enough RAM and storage to run multiple virtual machines simultaneously. By working on these beginner projects in my Proxmox-based SOC home lab, I was able to develop a solid foundation in cybersecurity concepts and gain valuable hands-on experience that will assist me my career. Check out my <a href="https://lucky-salto-c8e.notion.site/My-Proxmox-VE-GraveSEC-Home-SOC-Lab-11b5af4946b34615b4f12a22aa1df21b?pvs=4/blob/main/README.md">GraveSEC Home Lab Setup - Walkthrough</a> and follow my work below.
 
+- <a href="https://github.com/GraveSEC-github/Security-Awareness/blob/main/README.md">Security Awareness</a>
 - <a href="https://github.com/GraveSEC-github/Active-Directory-Lab/blob/main/README.md">Active Directory</a>
 - <a href="https://github.com/GraveSEC-github/SIEM-and-Log-Analysis/blob/main/README.md">SIEM/ Log Analysis</a>
 - <a href="https://github.com/GraveSEC-github/Blue-Team-and-DFIR/blob/main/README.md">Blue Team/ DFIR Lab</a>
 - <a href="https://github.com/GraveSEC-github/Rouge-Red-Team/blob/main/README.md">Red Team Lab</a>
-- <a href="https://github.com/GraveSEC-github/Security-Awareness/blob/main/README.md">Security Awareness</a>
 - <a href="https://github.com/GraveSEC-github/Threat-Intelligence-Frameworks/blob/main/README.md">Threat Intelligence Frameworks</a>
 - <a href="https://github.com/GraveSEC-github/Linux-OS/blob/main/README.md">Linux OS Fundamentals</a>
 - <a href="https://github.com/GraveSEC-github/AWS-Cloud/blob/main/README.md">AWS Cloud Lab</a>
