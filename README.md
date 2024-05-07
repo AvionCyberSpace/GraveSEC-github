@@ -155,7 +155,7 @@ I realized the importance of hands-on experience in cybersecurity, especially in
 </a>
 </div>
 
-## Learning Platforms 🚀
+## Learning Platforms 📚 
 
 #### <a href="https://www.masterschool.com/about-us/">Masterschool - Security+ Bootcamp</a>
 #### <a href="https://www.acilearning.com/login//">ACI Learning</a>
