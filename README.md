@@ -62,7 +62,7 @@ I realized the importance of hands-on experience in cybersecurity, especially in
 - <a href="https://github.com/GraveSEC-github/Linux-OS/blob/main/README.md">Linux OS Fundamentals</a>
 - <a href="https://github.com/GraveSEC-github/AWS-Cloud/blob/main/README.md">AWS Cloud Lab</a>
 
-## Tools Used
+## Tools & Resources Used
 
 #### Hardware & Virualization
 <div>
@@ -136,8 +136,11 @@ I realized the importance of hands-on experience in cybersecurity, especially in
   </a>
 </div>
 
- #### Other Tools
+ #### Other Tools & Resources
  <div>
+   <a href="https://www.youtube.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?&style=for-the-badge&logo=YouTube&logoColor=white" />
+</a>
    <a href="https://osintframework.com/" target="_blank">
     <img src="https://img.shields.io/badge/-OSINT-000000?&style=for-the-badge&logo=OSINT&logoColor=white" />
 </a>
@@ -153,6 +156,7 @@ I realized the importance of hands-on experience in cybersecurity, especially in
  <a href="https://www.virustotal.com/gui/home/upload" target="_blank">
     <img src="https://img.shields.io/badge/-Virus_Total-0074D9?&style=for-the-badge&logo=VirusTotal&logoColor=white" />
 </a>
+   , .etc
 </div>
 
 ## Learning Platforms 📚 
