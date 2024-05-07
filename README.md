@@ -37,7 +37,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skills & Practices                 | Associated Lab Project         |
 |-----------------------------------------------|----------------------------|
-| Security Intelligence, NIST Framework & Best Practices| <a href="https://github.com/GraveSEC-github/Security-Awareness/blob/main/README.md">Security Awareness</a>|
+| Security Intelligence & DLP Best Practices| <a href="https://github.com/GraveSEC-github/Security-Awareness/blob/main/README.md">Security Awareness</a>|
 | Windows Server Implementation - AD, DNS, DC & Sysmon Log Configuration |<a href="https://github.com/GraveSEC-github/Active-Directory-Lab/blob/main/README.md">Windows Server/ Active Directory</a>|
 | Powershell and C/ C++| <a href="https://github.com/GraveSEC-github/Active-Directory-Lab/blob/main/README.md">Windows Server</a>|
 | Building 'GraveSEC SOC' | <a href="https://github.com/GraveSEC-github/SIEM-Lab/blob/main/README.md">SIEM/ Log Analysis</a> & <a href="https://github.com/GraveSEC-github/Blue-Team-and-DFIR/blob/main/README.md">Blue Team</a>|
