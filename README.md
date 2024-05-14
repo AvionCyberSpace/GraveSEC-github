@@ -46,8 +46,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Network Monitoring/ Log Analysis (ELK Stack & Splunk)| <a href="https://github.com/GraveSEC-github/SIEM-Lab/blob/main/README.md">SIEM/ Log Analysis</a> & <a href="https://github.com/GraveSEC-github/Blue-Team-and-DFIR/blob/main/README.md">Blue Team/ DFIR</a>|
 | Intrusion Detection Systems (IDS), Intrusion Prevention Systems (IPS) Endpoint Detection & Response (EDR)  | <a href="https://github.com/GraveSEC-github/SIEM-Lab/blob/main/README.md">SIEM/ Log Analysis</a> & <a href="https://github.com/GraveSEC-github/Blue-Team-and-DFIR/blob/main/README.md">Blue Team/ DFIR</a>|
 | Incident Response Planning and Execution  | <a href="https://github.com/GraveSEC-github/Blue-Team-and-DFIR/blob/main/README.md">Blue Team/ DFIR</a>|
+| Encryption & Decryption | <a href="https://github.com/GraveSEC-github/Threat-Intelligence-Frameworks/blob/main/README.md">Cryptograpthy</a>|
 | MITRE ATT&CK Framework | <a href="https://github.com/GraveSEC-github/Threat-Intelligence-Frameworks/blob/main/README.md">Threat Intelligence</a>|
-| AWS Database/ Pre-Certified Cloud Practitioner | <a href="https://github.com/GraveSEC-github/AWS-Cloud/blob/main/README.md">AWS Cloud</a>|
+| Azure Database/ Pre-Certified Cloud Practitioner | <a href="https://github.com/GraveSEC-github/AWS-Cloud/blob/main/README.md">Microsoft Azure</a>|
 
 ## GraveSEC Home Lab - Projects
 
