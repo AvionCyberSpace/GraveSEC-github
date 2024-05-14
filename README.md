@@ -46,7 +46,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Network Monitoring/ Log Analysis (ELK Stack & Splunk)| <a href="https://github.com/GraveSEC-github/SIEM-Lab/blob/main/README.md">SIEM/ Log Analysis</a> & <a href="https://github.com/GraveSEC-github/Blue-Team-and-DFIR/blob/main/README.md">Blue Team/ DFIR</a>|
 | Intrusion Detection Systems (IDS), Intrusion Prevention Systems (IPS) Endpoint Detection & Response (EDR)  | <a href="https://github.com/GraveSEC-github/SIEM-Lab/blob/main/README.md">SIEM/ Log Analysis</a> & <a href="https://github.com/GraveSEC-github/Blue-Team-and-DFIR/blob/main/README.md">Blue Team/ DFIR</a>|
 | Incident Response Planning and Execution  | <a href="https://github.com/GraveSEC-github/Blue-Team-and-DFIR/blob/main/README.md">Blue Team/ DFIR</a>|
-| Encryption & Decryption | <a href="https://github.com/GraveSEC-github/Threat-Intelligence-Frameworks/blob/main/README.md">Cryptograpthy</a>|
+| Encryption & Decryption | <a href="https://github.com/GraveSEC-github/Cryptography/blob/main/README.md">Cryptograpthy</a>|
 | MITRE ATT&CK Framework | <a href="https://github.com/GraveSEC-github/Threat-Intelligence-Frameworks/blob/main/README.md">Threat Intelligence</a>|
 | Azure Database/ Pre-Certified Cloud Practitioner | <a href="https://github.com/GraveSEC-github/AWS-Cloud/blob/main/README.md">Microsoft Azure</a>|
 
@@ -60,6 +60,7 @@ I realized the importance of hands-on experience in cybersecurity, especially in
 - <a href="https://github.com/GraveSEC-github/Rouge-Red-Team/blob/main/README.md">Red Team Lab</a>
 - <a href="https://github.com/GraveSEC-github/Blue-Team-and-DFIR/blob/main/README.md">Blue Team/ DFIR Lab</a>
 - <a href="https://github.com/GraveSEC-github/SIEM-and-Log-Analysis/blob/main/README.md">SIEM/ Log Analysis</a>
+- <a href="https://github.com/GraveSEC-github/Cryptography/blob/main/README.md">Cryptograpthy</a>
 - <a href="https://github.com/GraveSEC-github/Threat-Intelligence-Frameworks/blob/main/README.md">Threat Intelligence Frameworks</a>
 - <a href="https://github.com/GraveSEC-github/AWS-Cloud/blob/main/README.md">Microsoft Azure/ Cloud Lab</a>
 
@@ -139,9 +140,6 @@ I realized the importance of hands-on experience in cybersecurity, especially in
 
  #### Other Tools & Resources
  <div>
-   <a href="https://www.youtube.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-YouTube-FF0000?&style=for-the-badge&logo=YouTube&logoColor=white" />
-</a>
    <a href="https://osintframework.com/" target="_blank">
     <img src="https://img.shields.io/badge/-OSINT-000000?&style=for-the-badge&logo=OSINT&logoColor=white" />
 </a>
@@ -168,5 +166,6 @@ I realized the importance of hands-on experience in cybersecurity, especially in
 #### <a href="https://overthewire.org/wargames/">LetsDefend - SOC Analyst/ Blue Team Training</a>
 #### <a href="https://underthewire.tech/century">UnderTheWire</a>
 #### <a href="https://overthewire.org/wargames/">OverTheWire</a>
+#### <a href="https://www.youtube.com/">YouTube</a>
 
 
