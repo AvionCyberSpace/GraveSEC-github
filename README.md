@@ -62,11 +62,11 @@ I realized the importance of hands-on experience in cybersecurity, especially in
 - <a href="https://github.com/GraveSEC-github/Active-Directory-Lab/blob/main/README.md">Windows Server/ Administrator</a>
 - <a href="https://github.com/GraveSEC-github/Linux-OS/blob/main/README.md">Linux OS Fundamentals</a>
 - <a href="https://github.com/GraveSEC-github/Rouge-Red-Team/blob/main/README.md">Rouge Red Team Lab</a>
-- <a href="https://github.com/GraveSEC-github/Blue-Team-and-DFIR/blob/main/README.md">Blue Team/ DFIR Lab</a>
 - <a href="https://github.com/GraveSEC-github/SIEM-and-Log-Analysis/blob/main/README.md">SIEM/ Log Analysis</a>
+- <a href="https://github.com/GraveSEC-github/Blue-Team-and-DFIR/blob/main/README.md">Blue Team/ DFIR Lab</a>
 - <a href="https://github.com/GraveSEC-github/Cryptography/blob/main/README.md">Cryptograpthy</a>
-- <a href="https://github.com/GraveSEC-github/Threat-Intelligence-Frameworks/blob/main/README.md">Threat Intelligence Frameworks</a>
 - <a href="https://github.com/GraveSEC-github/AWS-Cloud/blob/main/README.md">Microsoft Azure/ Cloud Lab</a>
+- <a href="https://github.com/GraveSEC-github/Threat-Intelligence-Frameworks/blob/main/README.md">Threat Intelligence Frameworks</a>
 
 ## Tools & Resources Used
 
