@@ -37,18 +37,21 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skills & Practices                 | Associated Lab Project         |
 |-----------------------------------------------|----------------------------|
-| Security Intelligence & DLP Best Practices| <a href="https://github.com/GraveSEC-github/Security-Awareness/blob/main/README.md">Security Awareness</a>|
-| Windows Server Implementation - AD, DNS, DC & Sysmon Log Configuration |<a href="https://github.com/GraveSEC-github/Active-Directory-Lab/blob/main/README.md">Windows Server/ Active Directory</a>|
-| System Administrator Functions| <a href="https://github.com/GraveSEC-github/Active-Directory-Lab/blob/main/README.md">Windows Server</a>|
-| Linux Basics for Hackers  | <a href="https://github.com/GraveSEC-github/Linux-OS/blob/main/README.md">Linux OS</a>|
-| Data Sniffing, Exploitation, Escalation, Persistence, Sabotage, Exfiltration & Avoiding Detection  | <a href="https://github.com/GraveSEC-github/Rouge-Red-Team/blob/main/README.md">Rouge Red Team</a>|
-| Building 'GraveSEC SOC' | <a href="https://github.com/GraveSEC-github/SIEM-Lab/blob/main/README.md">SIEM/ Log Analysis</a> & <a href="https://github.com/GraveSEC-github/Blue-Team-and-DFIR/blob/main/README.md">Blue Team</a>|
-| Network Monitoring/ Log Analysis (ELK Stack & Splunk)| <a href="https://github.com/GraveSEC-github/SIEM-Lab/blob/main/README.md">SIEM/ Log Analysis</a> & <a href="https://github.com/GraveSEC-github/Blue-Team-and-DFIR/blob/main/README.md">Blue Team/ DFIR</a>|
-| Intrusion Detection Systems (IDS), Intrusion Prevention Systems (IPS) Endpoint Detection & Response (EDR)  | <a href="https://github.com/GraveSEC-github/SIEM-Lab/blob/main/README.md">SIEM/ Log Analysis</a> & <a href="https://github.com/GraveSEC-github/Blue-Team-and-DFIR/blob/main/README.md">Blue Team/ DFIR</a>|
-| Incident Response Planning and Execution  | <a href="https://github.com/GraveSEC-github/Blue-Team-and-DFIR/blob/main/README.md">Blue Team/ DFIR</a>|
-| Encryption & Decryption | <a href="https://github.com/GraveSEC-github/Cryptography/blob/main/README.md">Cryptograpthy</a>|
+| Security Awareness & Intelligence | <a href="https://github.com/GraveSEC-github/Security-Awareness/blob/main/README.md">Security Awareness</a>|
+| Windows Server/ Administrator (Active Direectory, DNS & DC) |<a href="https://github.com/GraveSEC-github/Active-Directory-Lab/blob/main/README.md">Windows Server</a>|
+| Linux Foundation  | <a href="https://github.com/GraveSEC-github/Linux-OS/blob/main/README.md">Linux OS</a>|
+| Firewalls - Network Security |
+| VPN - Securing Remote Access |
+| SIEM - Security Information & Event Management |
+| Data Sniffing, Escalation, Persistence, Exploitation & Sabotage, Avoiding Detection & Exfiltration | <a href="https://github.com/GraveSEC-github/Rouge-Red-Team/blob/main/README.md">Rouge Red Team</a>|
+| SIEM/ Log Analysis (ELK Stack & Splunk)| <a href="https://github.com/GraveSEC-github/SIEM-Lab/blob/main/README.md">SIEM/ Log Analysis</a> & <a href="https://github.com/GraveSEC-github/Blue-Team-and-DFIR/blob/main/README.md">Blue Team/ DFIR</a>|
+| Endpoint Detection & Response (EDR)  |
+| Intrusion Detection Systems (IDS) & Intrusion Prevention Systems (IPS) | <a href="https://github.com/GraveSEC-github/SIEM-Lab/blob/main/README.md">SIEM/ Log Analysis</a> & <a href="https://github.com/GraveSEC-github/Blue-Team-and-DFIR/blob/main/README.md">Blue Team/ DFIR</a>|
+| Incident Response -  Planning & Execution  | <a href="https://github.com/GraveSEC-github/Blue-Team-and-DFIR/blob/main/README.md">Blue Team/ DFIR</a>|
+| Cryptography Technologies | <a href="https://github.com/GraveSEC-github/Cryptography/blob/main/README.md">Cryptograpthy</a>|
+| Azure/ Cloud Database Security Solutions | <a href="https://github.com/GraveSEC-github/AWS-Cloud/blob/main/README.md">Microsoft Azure</a>|
 | MITRE ATT&CK Framework | <a href="https://github.com/GraveSEC-github/Threat-Intelligence-Frameworks/blob/main/README.md">Threat Intelligence</a>|
-| Azure Database/ Pre-Certified Cloud Practitioner | <a href="https://github.com/GraveSEC-github/AWS-Cloud/blob/main/README.md">Microsoft Azure</a>|
+| Building Home Lab/ 'GraveSEC SOC' w/ Proxmox | <a href="https://github.com/GraveSEC-github/SIEM-Lab/blob/main/README.md"> </a> & <a href="https://github.com/GraveSEC-github/Blue-Team-and-DFIR/blob/main/README.md">GraveSEC - Cyber Intelligence</a>|
 
 ## GraveSEC Home Lab - Projects
 
