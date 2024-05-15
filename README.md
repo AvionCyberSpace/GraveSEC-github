@@ -43,7 +43,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Network Security - Firewalls |
 | VPN - Securing Remote Access |
 | SIEM - Security Information & Event Management |
-| Data Sniffing, Escalation, Persistence, Exploitation & Sabotage, Avoiding Detection & Exfiltration | <a href="https://github.com/GraveSEC-github/Rouge-Red-Team/blob/main/README.md">Rouge Red Team</a> |
+| Data Analysis, Escalation, Persistence, Exploitation & Sabotage, Avoiding Detection & Exfiltration | <a href="https://github.com/GraveSEC-github/Rouge-Red-Team/blob/main/README.md">Rouge Red Team</a> |
 | SIEM/ Log Analysis (ELK Stack & Splunk)| <a href="https://github.com/GraveSEC-github/SIEM-Lab/blob/main/README.md">SIEM/ Log Analysis</a> & <a href="https://github.com/GraveSEC-github/Blue-Team-and-DFIR/blob/main/README.md">Blue Team/ DFIR</a> |
 | Endpoint Detection & Response (EDR) |
 | Intrusion Detection Systems (IDS) & Intrusion Prevention Systems (IPS) | <a href="https://github.com/GraveSEC-github/SIEM-Lab/blob/main/README.md">SIEM/ Log Analysis</a> & <a href="https://github.com/GraveSEC-github/Blue-Team-and-DFIR/blob/main/README.md">Blue Team/ DFIR</a>|
