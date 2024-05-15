@@ -40,7 +40,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Security Awareness & Intelligence | <a href="https://github.com/GraveSEC-github/Security-Awareness/blob/main/README.md">Security Awareness</a> |
 | Windows Server/ Administrator (Active Direectory, DNS & DC) |<a href="https://github.com/GraveSEC-github/Active-Directory-Lab/blob/main/README.md">Windows Server</a> |
 | Linux Foundation  | <a href="https://github.com/GraveSEC-github/Linux-OS/blob/main/README.md">Linux OS</a>|
-| Firewalls - Network Security |
+| Network Security - Firewalls |
 | VPN - Securing Remote Access |
 | SIEM - Security Information & Event Management |
 | Data Sniffing, Escalation, Persistence, Exploitation & Sabotage, Avoiding Detection & Exfiltration | <a href="https://github.com/GraveSEC-github/Rouge-Red-Team/blob/main/README.md">Rouge Red Team</a> |
