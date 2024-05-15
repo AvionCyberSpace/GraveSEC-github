@@ -51,7 +51,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Cryptography Technologies | <a href="https://github.com/GraveSEC-github/Cryptography/blob/main/README.md">Cryptograpthy</a>|
 | Azure/ Cloud Database Security Solutions | <a href="https://github.com/GraveSEC-github/AWS-Cloud/blob/main/README.md">Microsoft Azure</a>|
 | MITRE ATT&CK Framework | <a href="https://github.com/GraveSEC-github/Threat-Intelligence-Frameworks/blob/main/README.md">Threat Intelligence</a>|
-| Building Home Lab/ 'GraveSEC SOC' w/ Proxmox | <a href="https://github.com/GraveSEC-github/SIEM-Lab/blob/main/README.md"> </a> & <a href="https://github.com/GraveSEC-github/Blue-Team-and-DFIR/blob/main/README.md">GraveSEC - Cyber Intelligence</a>|
+| Building Home Lab/ 'GraveSEC SOC' with Proxmox | <a href="https://github.com/GraveSEC-github/SIEM-Lab/blob/main/README.md">GraveSEC - Cyber Intelligence</a>|
 
 ## GraveSEC Home Lab - Projects
 
