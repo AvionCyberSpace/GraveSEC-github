@@ -50,7 +50,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Incident Response -  Planning & Execution | <a href="https://github.com/GraveSEC-github/Blue-Team-and-DFIR/blob/main/README.md">Blue Team/ DFIR</a> |
 | Cryptography Technologies | <a href="https://github.com/GraveSEC-github/Cryptography/blob/main/README.md">Cryptograpthy</a> |
 | Azure/ Cloud Database Security Solutions | <a href="https://github.com/GraveSEC-github/AWS-Cloud/blob/main/README.md">Microsoft Azure</a> |
-| NIST, GDPR & ISO Frameworks | <a href="">Risk Management Frameworks</a> |
+| NIST, ISO/ IEC, GDPR & HIPAA Frameworks | <a href="">Risk Management Frameworks</a> |
 | MITRE ATT&CK Framework | <a href="https://github.com/GraveSEC-github/Threat-Intelligence-Frameworks/blob/main/README.md">Threat Intelligence</a> |
 | Building Home Lab/ 'GraveSEC SOC' with Proxmox | <a href="https://github.com/GraveSEC-github/SIEM-Lab/blob/main/README.md">GraveSEC - Cyber Intelligence</a> |
 
@@ -165,6 +165,7 @@ I realized the importance of hands-on experience in cybersecurity, especially in
 ## Learning Platforms 📚 
 
 #### <a href="https://www.masterschool.com/about-us/">Masterschool - Security+ Bootcamp</a>
+#### <a href="https://certifications.tcm-sec.com/pjpt/">TCM Security - PJPT</a>
 #### <a href="https://www.acilearning.com/login//">ACI Learning</a>
 #### <a href="https://tryhackme.com/r/about/">TryHackMe</a>
 #### <a href="https://overthewire.org/wargames/">LetsDefend - SOC Analyst/ Blue Team Training</a>
