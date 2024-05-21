@@ -170,7 +170,7 @@ I realized the importance of hands-on experience in cybersecurity, especially in
 
 ## Learning Resources & Platforms 📚 
 
-#### <a href="https://www.masterschool.com/about-us/">Masterschool - Security+ Bootcamp</a>
+#### <a href="https://www.masterschool.com/about-us/">Masterschool - Cybersecurity Bootcamp</a>
 #### <a href="https://www.acilearning.com/login//">ACI Learning</a>
 #### <a href="https://tryhackme.com/r/about/">TryHackMe</a>
 #### <a href="https://a.co/d/cO7qAJV/">CompTIA Security+ Study Guide: by Mike Chapple & David Seidl</a>
