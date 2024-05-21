@@ -111,7 +111,7 @@ I realized the importance of hands-on experience in cybersecurity, especially in
 </a>
 </div>
 
- #### Security Awareness
+ #### Security Frameworks
  <div>
    <a href="https://ico.org.uk/media/for-organisations/guide-to-the-general-data-protection-regulation-gdpr-1-0.pdf" target="_blank">
     <img src="https://img.shields.io/badge/-GDPR-4D4D4D?&style=for-the-badge&logo=GDPR&logoColor=white" />
