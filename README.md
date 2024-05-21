@@ -113,8 +113,14 @@ I realized the importance of hands-on experience in cybersecurity, especially in
 
  #### Security Awareness
  <div>
+   <a href="https://ico.org.uk/media/for-organisations/guide-to-the-general-data-protection-regulation-gdpr-1-0.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/-GDPR-4D4D4D?&style=for-the-badge&logo=GDPR&logoColor=white" />
+</a>
  <a href="https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/-NIST_Framework-1679A7?&style=for-the-badge&logo=NIST&logoColor=white" />
+    <img src="https://img.shields.io/badge/-NIST-1679A7?&style=for-the-badge&logo=NIST&logoColor=white" />
+</a>
+   <a href="https://www.hhs.gov/hipaa/for-professionals/security/guidance/cybersecurity/index.html" target="_blank">
+    <img src="https://img.shields.io/badge/-HIPAA-89CFF0?&style=for-the-badge&logo=HIPAA&logoColor=white" alt="HIPAA"/>
 </a>
 </div>
 
