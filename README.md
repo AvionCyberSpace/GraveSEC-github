@@ -142,7 +142,7 @@ I realized the importance of hands-on experience in cybersecurity, especially in
   </a>
 </div>
 
- #### Other Tools & Resources
+ #### Other Tools
  <div>
    <a href="https://osintframework.com/" target="_blank">
     <img src="https://img.shields.io/badge/-OSINT-000000?&style=for-the-badge&logo=OSINT&logoColor=white" />
@@ -162,13 +162,16 @@ I realized the importance of hands-on experience in cybersecurity, especially in
    , .etc
 </div>
 
-## Learning Platforms 📚 
+## Learning Resources & Platforms 📚 
 
 #### <a href="https://www.masterschool.com/about-us/">Masterschool - Security+ Bootcamp</a>
-#### <a href="https://certifications.tcm-sec.com/pjpt/">TCM Security - PJPT</a>
 #### <a href="https://www.acilearning.com/login//">ACI Learning</a>
 #### <a href="https://tryhackme.com/r/about/">TryHackMe</a>
-#### <a href="https://overthewire.org/wargames/">LetsDefend - SOC Analyst/ Blue Team Training</a>
+#### <a href="https://a.co/d/cO7qAJV/">CompTIA Security+ Study Guide: by Mike Chapple & David Seidl</a>
+#### <a href="https://a.co/d/6CyzmwE/">Blue Team Handbook: by Don Murdoch</a>
+#### <a href="https://a.co/d/hXIDlOq/">Linux Basic for Hackers: by OccupyTheWeb</a>
+#### <a href="https://app.letsdefend.io/path/cybersecurity-for-students/">LetsDefend</a>
+#### <a href="https://certifications.tcm-sec.com/pjpt/">TCM Security - PJPT</a>
 #### <a href="https://underthewire.tech/century">UnderTheWire</a>
 #### <a href="https://overthewire.org/wargames/">OverTheWire</a>
 #### <a href="https://www.youtube.com/">YouTube</a>
